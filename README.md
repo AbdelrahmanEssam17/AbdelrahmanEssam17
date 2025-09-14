@@ -16,7 +16,7 @@
 I am a **Back-End Node.js Developer** with experience in building **scalable RESTful APIs**, working with databases like **MongoDB, MySQL, and Redis**, and deploying apps using **Docker and cloud services**.  
 I am passionate about writing **clean, maintainable code** and learning new technologies.
 
-- 💼 Know about my experiences: [Updated CV]()
+- 💼 Know about my experiences: [Updated CV](https://drive.google.com/file/d/1PW-OdK2GLd35RYT1wbe-fQUXh9r4z4yg/view?usp=sharing)
 - 💬 Ask me about **Node.js, REST APIs, Database Design**  
 
 ---
